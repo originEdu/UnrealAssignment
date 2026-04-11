@@ -2,7 +2,3 @@
 
 
 https://github.com/user-attachments/assets/636ca1bf-da28-4548-a676-e19a2701f3f0
-
-<video src="./UI Assignment.mp4" controls width="100%">
-  Your browser does not support the video tag.
-</video>
